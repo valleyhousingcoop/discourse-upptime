@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.valleyhousing.coop.ico",
     "slug": "valley-housing-coop-forum",
     "status": "up",
-    "uptime": "95.59%",
+    "uptime": "95.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.66%",
-    "uptimeYear": "95.59%",
+    "uptimeYear": "95.60%",
     "time": 678,
     "timeDay": 3701,
     "timeWeek": 1001,
@@ -47,7 +47,7 @@
     "url": "https://www.valleyhousing.coop/",
     "icon": "https://icons.duckduckgo.com/ip3/www.valleyhousing.coop.ico",
     "slug": "valley-housing-coop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,6 +58,8 @@
     "timeWeek": 273,
     "timeMonth": 219,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   }
 ]
