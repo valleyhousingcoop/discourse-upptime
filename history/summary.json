@@ -4,7 +4,7 @@
     "url": "https://forum.valleyhousing.coop/",
     "icon": "https://icons.duckduckgo.com/ip3/forum.valleyhousing.coop.ico",
     "slug": "valley-housing-coop-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "96.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 676,
     "timeYear": 674,
     "dailyMinutesDown": {
+      "2024-06-10": 0,
       "2024-05-05": 42,
       "2024-04-25": 17,
       "2024-04-16": 88,
